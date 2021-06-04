@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+border-region {
+    -fx-background-color: red;
+    -fx-border-color: yellow, black;
+    -fx-border-style: segments(12, 12), segments(12, 12) phase 12;
+    -fx-border-width: 3;
+}
